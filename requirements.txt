@@ -1,0 +1,6 @@
+torch>=2.0.0
+transformers>=4.30.0
+datasets>=2.14.0
+seqeval>=1.2.2
+scikit-learn>=1.2.0
+pyyaml>=6.0

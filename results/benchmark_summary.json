@@ -1,0 +1,20 @@
+{
+  "sentiment_astd": {
+    "mbert_f1": 0.804,
+    "arabert_v1_f1": 0.882,
+    "arabert_v2_f1": 0.914
+  },
+  "ner_anercorp": {
+    "mbert_f1": 0.781,
+    "arabert_v1_f1": 0.856,
+    "arabert_v2_f1": 0.893
+  },
+  "qa_arabic_squad": {
+    "mbert_f1": 0.687,
+    "arabert_v2_f1": 0.812
+  },
+  "dialect_madar5": {
+    "mbert_f1": 0.713,
+    "arabert_v2_f1": 0.87
+  }
+}
